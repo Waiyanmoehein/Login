@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222510190642",
+    "firebase_url": "https://makefriend-906e6.firebaseio.com",
+    "project_id": "makefriend-906e6",
+    "storage_bucket": "makefriend-906e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222510190642:android:d4e641702e05f933f9ac2b",
+        "android_client_info": {
+          "package_name": "com.example.makefriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222510190642-9i3t23jdhp6j3rq9l59hvlappf6pkgd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.makefriend",
+            "certificate_hash": "abf2489daaa69565b320e2b98f7c50899c46490b"
+          }
+        },
+        {
+          "client_id": "222510190642-4v8fnqfju0dfdr7dimj0i3k87hqmgsqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4CCx7pvOU5ycTLtv3VRIFVxJCEKmAKfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222510190642-4v8fnqfju0dfdr7dimj0i3k87hqmgsqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
